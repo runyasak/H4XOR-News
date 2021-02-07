@@ -18,6 +18,7 @@
 		83F55F1625D03EFC00882243 /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83F55F1525D03EFC00882243 /* NetworkManager.swift */; };
 		83F55F1C25D0400600882243 /* PostData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83F55F1B25D0400600882243 /* PostData.swift */; };
 		83F55F2725D04CFF00882243 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83F55F2625D04CFF00882243 /* DetailView.swift */; };
+		83F55F2D25D0517700882243 /* WebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83F55F2C25D0517700882243 /* WebView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,7 @@
 		83F55F1525D03EFC00882243 /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
 		83F55F1B25D0400600882243 /* PostData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostData.swift; sourceTree = "<group>"; };
 		83F55F2625D04CFF00882243 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
+		83F55F2C25D0517700882243 /* WebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -172,6 +174,7 @@
 			children = (
 				83F55ED425D03CBF00882243 /* ContentView.swift */,
 				83F55F2625D04CFF00882243 /* DetailView.swift */,
+				83F55F2C25D0517700882243 /* WebView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -336,6 +339,7 @@
 				83F55F1625D03EFC00882243 /* NetworkManager.swift in Sources */,
 				83F55F1C25D0400600882243 /* PostData.swift in Sources */,
 				83F55EFE25D03CC000882243 /* ContentView.swift in Sources */,
+				83F55F2D25D0517700882243 /* WebView.swift in Sources */,
 				83F55F2725D04CFF00882243 /* DetailView.swift in Sources */,
 				83F55EFC25D03CC000882243 /* H4XOR_NewsApp.swift in Sources */,
 			);
